@@ -1,0 +1,15 @@
+.banner{
+    object-fit: cover !important;
+    background-position: center !important;
+    width: 100% !important;
+    height: 100% !important;
+    z-index: 20 !important;
+    overflow:visible !important;
+}
+
+.popular{
+    z-index: 5;
+    visibility: inherit;
+    text-align: inherit;
+    transition: 0s ease 0s;
+}

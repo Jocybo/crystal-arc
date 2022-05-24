@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+.nunito-font-who {
+    font-family: 'Nunito sans' , sans-serif
+}
+
+.sub-head{
+    text-align: justify;
+    font-family: 'Nunito sans', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+}
+
+.about {
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+    font-size: 36px;
+}
+
+.who{
+    font-family: 'Nunito sans' , sans-serif;
+    font-weight: 400;
+    font-size: 13px;
+}
+
+.read-more {
+    font-family: 'Nunito sans', sans-serif;
+    font-family: 400;
+    font-size: 13px;
+    text-decoration: none;
+    border: 2px solid grey;
+    padding: 15px 55px 15px 55px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+
+.section_castudio{
+    margin-right: 60px;
+    margin-top: 20px;
+    margin-bottom: 6rem;
+}
+
+
+
